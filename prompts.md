@@ -1,4 +1,4 @@
-# 📚 Security as a Prompt
+# 📚 Security as Prompt
 
 ## 🧑‍💼 Access Control & Identity
 - **System Prompt**:
