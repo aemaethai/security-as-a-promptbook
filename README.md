@@ -1,66 +1,67 @@
-# 📚 Security as a Prompt
+# 📚 Security as Prompt
 
-A prompt book to transforming security operations through natural language automation.
+A tactical prompt book to turn security operations into smart, automated policies, executable by cybersecurity agents.
 
-## 📖 About This Book
+## 📖 What’s Inside
 
-This book explores the concept of "Security as Prompt" - a revolutionary approach to security operations that transforms traditional security rules into natural language instructions. Through practical examples and real-world scenarios, you'll learn how to:
+**Security as Prompt** is a practical anthology of natural language prompts designed to enable agentic AI in automating security operations. It illustrates real-world use cases that transform static security procedures into executable commands, empowering agentic AI to respond precisely and reliably.
 
-- Convert complex security rules into simple, executable prompts
-- Automate security operations using natural language
-- Build a unified security interface for your organization
-- Implement security-as-prompt across 10 key security domains
+### You’ll Learn How To:
 
-## 🚀 Key Features
- 
-- **Natural Language Interface**: Convert security rules into human-readable prompts
-- **Cross-Team Collaboration**: Unified interface for security operations
-- **Automated Security**: Execute security tasks through natural language commands
-- **Comprehensive Coverage**: 10 security domains with 60+ actionable prompts
+- Transform static security policies into dymanic commands and controls
+- Automate operations across security tools and workflows
+- Build a prompt-driven security interface
+- Apply prompt-based automation across security activities
 
-## 📋 Security Domains
+## 🚀 Core Features
 
-1. **Access Control & Identity** 🧑‍💼
-2. **Vulnerability Management** 🛡️
-3. **Incident Response** 🚨
-4. **Compliance & Audit** 📋
-5. **Asset Management** 🖥️
-6. **Monitoring & Alerting** 📡
-7. **Training & Awareness** 🎓
-8. **Vendor Management** 🤝
-9. **Data Protection** 🔐
-10. **Endpoint Security** 💻
+- **Human-Readable Prompts**: Simplify complex rules into natural language
+- **Unified Ops Layer**: One interface across security teams
+- **Automation-Ready**: Prompt → Action, no manual overhead
+- **Wide Coverage**: 10 domains, 60+ prompts, real-world tasks
 
-## 🛠️ How to Use This Book
+## 📋 Covered Domains
 
-1. **Select a Domain**: Choose from the 10 security domains
-2. **Pick a Prompt**: Select a specific security task
-3. **Execute**: Run the prompt through your security interface
+1. **Identity & Access Control** 🧑‍💼  
+2. **Vulnerability Management** 🛡️  
+3. **Incident Response** 🚨  
+4. **Compliance & Audit** 📋  
+5. **Asset Management** 🖥️  
+6. **Monitoring & Alerting** 📡  
+7. **Security Training** 🎓  
+8. **Vendor Risk** 🤝  
+9. **Data Security** 🔐  
+10. **Endpoint Protection** 💻  
 
-Example:
+## 🛠️ How To Use
+
+1. **Pick a Domain**  
+2. **Choose a Prompt**  
+3. **Execute in Your Security Stack**
+
+### Example:
 ```bash
-# Run a vulnerability scan
-prompt: "Scan https://prod.app.com for high and critical vulnerabilities using Nuclei"
+# Run a targeted scan
+prompt: "Scan https://prod.app.com for high/critical CVEs"
 
-# Check MFA status
-prompt: "Verify MFA is enabled for all GitHub and Okta admin accounts"
+# Validate MFA status
+prompt: "Ensure MFA is enabled for all admins"
 ```
 
-## 📚 Additional Resources
+## 📚 Resources
 
-- Detailed prompts for each domain are available in `prompts.md`
-- Example implementations and case studies
-- Best practices for prompt engineering
-- Security interface integration guides
+- Full prompt catalog in `prompts.md`
+- Real-world use cases + implementation samples
+- Prompt engineering tips
+- Integration guides for security tools
 
-## 🤝 Contributing
+## 🤝 Contribute
 
-We welcome contributions to this book! To add new security prompts or use cases:
-
-1. Fork the repository
-2. Add new prompts following the existing format
-3. Submit a pull request
+We welcome your prompts and improvements:
+1. Fork the repo  
+2. Follow the existing format  
+3. Open a pull request  
 
 ## 📄 License
 
-MIT License - See LICENSE file for details
+MIT License — See `LICENSE` for details
