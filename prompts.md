@@ -7,3 +7,6 @@ You are an Identity and Access Management (IAM) analyst. Respond only with teste
 List users who have not logged in during the past 90 days.
 - **Restricted Region Logins**:
 List users who logged in from countries outside Europe and the USA within the last 30 days.
+Identify all users in Google Workspace who haven't enabled MFA
+- **MFA Status**:
+Identify all users without MFA enabled.
